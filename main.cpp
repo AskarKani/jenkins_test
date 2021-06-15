@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
-    print("askar");
+	int c = 5/0;
+    	print("askar ");
     return 0;
 }
